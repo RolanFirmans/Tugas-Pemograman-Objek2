@@ -1,0 +1,16 @@
+Panduan Cara menggunakan Aplikasi Kami
+1. Untuk di halaman pertama dimana ada 2 pilihan apakah anda admin atau petugas.
+2. Untuk login petugas harus memasukan data dulu pada fitur Petugas, dan harus masuk sebagai admin.
+3. Ketika masuk sebagai admin nanti ada pilihan ada data barang, data pelanggan, data petugas dan data distriutor 
+   dimana fitur ini semua untuk menginput data dengan menggunkan CRUD
+4. Untuk data barang dimana menginput data dengan crud kami menyediakan input, delete, update untuk fitur ini hanya menginput data saja.  
+   sama lain dengan fitur yang lainnya karena hanya CRUD.
+5. Lalu ketika logout dan masuk sebagai petugas, ketika masuk sebagai petugas pastikan sudah menginput data pada fitur petugas dimana 
+   terdapat username dan password untuk login sebagai petugas.
+6. Dalam fitur petugas terdapat fitur Transaksi, barang masuk, barang keluar dan riwayat transaksi.
+7. Untuk transaksi dimana nanti ada tombol search di kanan nanti masuk ke daftar menu dimana nanti memilih daftar menu apa aja yang akan 
+   di beli, dan nanti otomatis masuk ke dalam transaksi seperti kode barang, nama barang dan harga, lalu masukan nama pelanggan dan jumlah 
+   yang dimasukan dan nanti otomatis di konfersi, misalnya harga 2000 dan masukan jumlah 2 maka jadi 4000. 
+8. lalu untuk fitur kembalian di transaksi dimana menkonfersi semua yang ada di tabel misal harga semua yang di beli 2000 dan uang nya 5000 
+   maka akan kebalian menjadi 2000.
+9. Lalu Untuk fitur barang masuk dan barang keluar dimana memasukan nama barang dan harga, jumlah maka otomatis akan dikonfersi ke harga 

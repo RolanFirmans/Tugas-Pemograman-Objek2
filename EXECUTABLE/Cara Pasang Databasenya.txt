@@ -1,0 +1,24 @@
+################################################
+
+Langkah-Langkah instalasi aplikasi Toko Meubel
+
+		@AUTHOR Kelompok3
+
+################################################
+
+1. dowload aplikasi Xampp untuk database
+2. lalu jalankan aplikasi Xampp dan nyalakan apache dan mysql
+3. langkah berikutnya buka browser lalu ketikan http://localhost/phpmyadmin
+4. setelah itu tambahkan database baru yang bernama meubel
+5. jika sudah terbuat database nya, masuk kemenu import dan
+   masukan file meubel.db di bagian chose file, lalu klik impor di bagian bawah.
+6. dalam databes ini terdapat tabel yaitu tabel tb_barang, tb_pelanggan, tb_datapetugas, tb_kerangjag, trasaksi
+   , barang_masuk, barang_keluar, distributor, admin
+7. lalu buka netbeans dan masukan file project pada folder project dan instalasi libnya.
+
+
+#######################################
+
+TERIMAKASIH TELAH MENCOBA APLIKASI KAMI
+
+#######################################

@@ -1,0 +1,11 @@
+HELLO!
+Sebelum mencoba atau memasang Aplikasi ini jangan lupa untuk menyalakan Xxamp 
+1.import database yang berada di folder db dengan nama "db_ujilevel".
+2.Instal Plugin serta Library Jasper Report yang sudah saya siapkan di folder ALL JASPER(Library format .jar)
+3.atau di folder db dengan nama File-Pendukung-Java.zip dan JCalender.jar 
+4.Lalu tinggal buka Netbeans Teman2 open file di folder yang sudah kalian letakan.
+
+
+
+
+
